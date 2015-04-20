@@ -1,0 +1,24 @@
+{
+  "name": "rs",
+  "version": "0.0.1",
+  "description": "finditDemo",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/molee1905/rs.git"
+  },
+  "dependencies": {
+    "findit": "^2.0.0",
+    "underscore": "^1.8.3"
+  },
+  "devDependencies": {
+    "gulp": "^3.8.11",
+    "gulp-livereload": "^3.8.0",
+    "gulp-nodemon": "^2.0.2"
+  },
+  "author": "molee1905",
+  "license": "ISC"
+}
